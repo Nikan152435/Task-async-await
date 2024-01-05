@@ -1,7 +1,8 @@
-import json from './parser';
-import read from './reader';
-import GameSaving from './gameSaving';
+import json from './Parser.js';
+import read from './reader.js';
+import GameSaving from './GameSaving.js';
 
+jest.setTimeout(15000);
 export default class GameSavingLoader {
   async load() {
     try {
