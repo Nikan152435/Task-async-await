@@ -13,21 +13,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/Nikan152435/Task-ArrayBuffer"
+    "url": "https://github.com/Nikan152435/Task-async-await.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nikan152435/Task-ArrayBuffer/issues"
+    "url": "https://github.com/Nikan152435/Task-async-await/issues"
   },
-  "homepage": "https://github.com/Nikan152435/Task-ArrayBuffer#readme",
+  "homepage": "https://github.com/Nikan152435/Task-async-await#readme",
   "dependencies": {
     "core-js": "^3.34.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.21.5",
-    "@babel/core": "^7.23.6",
-    "@babel/preset-env": "^7.23.6",
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
     "babel-jest": "^29.7.0",
     "babel-loader": "^9.1.3",
     "css-loader": "^6.8.1",
@@ -43,6 +43,6 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
   },
-  "description": "Домашнее задание к лекции « ArrayBuffer»\r Важно : мы достигли успеха в виде отдельного проекта с собственным репозиторием GitHub.",
+  "description": "Домашнее задание к уроку «Промисы, async/await»",
   "keywords": []
 }

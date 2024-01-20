@@ -1,3 +1,5 @@
+import GameSavingLoader from './app.mjs';
+
 jest.setTimeout(15000);
 test('тест сборки промисов', async (done) => {
   const sav = new GameSavingLoader();
