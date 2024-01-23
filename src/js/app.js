@@ -1,6 +1,6 @@
-import json from './Parser.js';
+import json from './parser.js';
 import read from './reader.js';
-import GameSaving from './GameSaving.js';
+import GameSaving from './gameSaving.js';
 
 jest.setTimeout(15000);
 export default class GameSavingLoader {
@@ -15,3 +15,4 @@ export default class GameSavingLoader {
     }
   }
 }
+    
